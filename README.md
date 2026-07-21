@@ -1,4 +1,4 @@
-## Product Management Dashboard 
+##  Product Management Dashboard 
 Frontend Product Management Dashboard featuring API integration,search,category filters and responsive UI
 
 ### Features
@@ -17,4 +17,4 @@ Frontend Product Management Dashboard featuring API integration,search,category 
 - Fake Store API
 
 ### Live Demo 
-
+https://aananya99.github.io/product-management-dashboard/
